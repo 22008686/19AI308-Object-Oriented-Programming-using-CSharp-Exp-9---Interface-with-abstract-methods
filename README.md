@@ -18,7 +18,7 @@ withdraw method: subtracts entered amount from balance, displays updated balance
 Main method: creates Program object, initiates banking operations based on user input.
 
 ## PROGRAM:
-Developed by:M.PAVITHRA C<br>
+Developed by:M.PAVITHRA <br>
 Register number:212222100032
 ```
 using System;
